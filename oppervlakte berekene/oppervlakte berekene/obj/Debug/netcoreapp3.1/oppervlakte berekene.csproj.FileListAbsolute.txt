@@ -1,0 +1,14 @@
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\bin\Debug\netcoreapp3.1\oppervlakte berekene.exe
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\bin\Debug\netcoreapp3.1\oppervlakte berekene.deps.json
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\bin\Debug\netcoreapp3.1\oppervlakte berekene.runtimeconfig.json
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\bin\Debug\netcoreapp3.1\oppervlakte berekene.runtimeconfig.dev.json
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\bin\Debug\netcoreapp3.1\oppervlakte berekene.dll
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\bin\Debug\netcoreapp3.1\oppervlakte berekene.pdb
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.AssemblyInfo.cs
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.dll
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.pdb
+C:\Users\chris\Desktop\cjallenge 16\oppervlakte berekene\oppervlakte berekene\obj\Debug\netcoreapp3.1\oppervlakte berekene.genruntimeconfig.cache

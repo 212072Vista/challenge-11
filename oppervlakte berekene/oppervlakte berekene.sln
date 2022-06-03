@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oppervlakte berekene", "oppervlakte berekene\oppervlakte berekene.csproj", "{B2E55AF6-239C-42A2-82AA-2F391B0580A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E55AF6-239C-42A2-82AA-2F391B0580A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E55AF6-239C-42A2-82AA-2F391B0580A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E55AF6-239C-42A2-82AA-2F391B0580A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E55AF6-239C-42A2-82AA-2F391B0580A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D76CEEE-9654-489A-A520-3CAE90D89FF9}
+	EndGlobalSection
+EndGlobal

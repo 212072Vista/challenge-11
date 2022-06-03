@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>prime_number</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\chris\Desktop\cjallenge 16\priemgetallen.cs" Link="priemgetallen.cs" />
+  </ItemGroup>
+
+</Project>
